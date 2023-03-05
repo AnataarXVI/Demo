@@ -1,6 +1,8 @@
- API token
+import requests
+
+# Set up API endpoint and API token
 endpoint = "https://api.example.com/data"
-api_token = "my_api_token"
+api_token = "zefFSfqsf554eaffff5zefsdfbyjilo115yrj511jyrj"
 
 # Set up headers
 headers = {
