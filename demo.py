@@ -2,7 +2,7 @@ import requests
 
 # Set up API endpoint and API token
 endpoint = "https://api.example.com/data"
-api_token = "zefFSfqsf554eaffff5zefsdfbyjilo115yrj511jyrj"
+api_token = "c2bf12cd-a369-49ba-802a-4993ae0e8775"
 
 # Set up headers
 headers = {
